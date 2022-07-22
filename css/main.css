@@ -72,6 +72,17 @@ font-size: 17px;
 
 .build-dream-img{
   width: 50%;
+  position: relative;
+}
+
+.build-dream-student-girl{
+  z-index: 100;
+}
+
+.oval-image{
+  z-index: 0;
+  position: absolute;
+  right: 10px;
 }
 
 .build-dream-part-text{
